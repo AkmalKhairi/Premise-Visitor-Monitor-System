@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Premise Visitor Monitor</string>
+    <string name="spnType_10km">Within 10 km</string>
+    <string name="spnType_district">Within district</string>
+    <string name="spnType_state">Within state</string>
+    <string name="spnType_all">All premises</string>
+    <string name="spnCategory_all">All categories</string>
+    <string name="txtName_hint">Premise name</string>
+    <string name="dlgPermission_label">This application requires GPS to retrieve the premises based on your current location.</string>
+    <string name="dlgInactive_label">Unable to retrieve your current location. Please make sure that your GPS is activated.</string>
+    <string name="txtNumber_hint"># of visitor</string>
+    <string name="txtRating_hint">Rating</string>
+    <string name="btnSubmit_queue_label">Queue to Visit</string>
+    <string name="btnSubmit_cancel_label">Stop</string>
+    <string name="btnNavigate_label">Navigate</string>
+    <string name="btnRate_label">Rate</string>
+
+    <string name="premise_name">Premise Name</string>
+    <string name="premise_type">Premise Type</string>
+    <string name="visiting_count_text">12</string>
+    <string name="visits_now">Visits Now</string>
+    <string name="slash">/</string>
+    <string name="visitorAllowed">20</string>
+    <string name="premise_name2">Premise Name</string>
+    <string name="premise_type2">Premise Type</string>
+    <string name="dlgRating_toast">Thank you for sharing your feedback</string>
+    <string name="dlgQueueWarning_label">Warning: Invalid Premise Queue Input</string>
+    <string name="dlgStopQueue_label">Confirmation To Stop Queuing</string>
+    <string name="dlgStopQueue_message">If you have safely arrived to the premise, do rate our service by clicking Rate. Click Confirm to stop tracking this premise, or Cancel to cancel action.</string>
+    <string name="dlgRating_label">We hope you enjoyed your visiting today</string>
+    <string name="dlgRatingSubmit_button">Submit Feedback</string>
+</resources>

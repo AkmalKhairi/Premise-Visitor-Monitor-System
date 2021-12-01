@@ -1,0 +1,26 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.PremiseVisitorMonitor" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@android:color/holo_blue_dark</item>
+        <!-- Customize your theme here. -->
+        <item name="android:statusBarColor">@color/light_blue</item>
+    </style>
+
+    <!-- Splash screen . -->
+    <style name="splashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
+    <style name="CustomDialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="ThemeSpinner">
+        <item name="colorAccent">#575DFC</item>
+        <item name="colorControlNormal">#575DFC</item>
+    </style>
+
+
+</resources>

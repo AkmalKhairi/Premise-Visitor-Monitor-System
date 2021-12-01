@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bcg2"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/premiseTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif"
+        android:text="Premise Queue"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/white"
+        android:textSize="28sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/premisetitle2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="0dp"
+        android:text="Queue your Journey"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/txtName"
+        android:background="@drawable/search_icon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:inputType="text"
+        android:paddingLeft="50dp"
+        android:textColor="@color/font_blue"
+        android:hint="@string/txtName_hint"
+        android:textColorHint="@color/font_blue"
+        android:autofillHints="" />
+
+    <Spinner
+        android:id="@+id/spnType"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:popupBackground="@color/light_blue"/>
+
+    <Spinner
+        android:id="@+id/spnCategory"
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:popupBackground="@color/light_blue"/>
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/srlPremises">
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rcvPremises"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+</LinearLayout>

@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "163844932784",
+    "firebase_url": "https://msmd-5113.firebaseio.com",
+    "project_id": "msmd-5113",
+    "storage_bucket": "msmd-5113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163844932784:android:dbdd6ed0a97328d5026775",
+        "android_client_info": {
+          "package_name": "my.edu.utem.ftmk.bitu3923.premisequeue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163844932784-okb0duqnnm99oudk16sedbr9n6b7359a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsQPzTodoOlpq2tufbtwhA1Khmrl_J2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163844932784-okb0duqnnm99oudk16sedbr9n6b7359a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163844932784:android:9cc93a74905af19c026775",
+        "android_client_info": {
+          "package_name": "my.edu.utem.ftmk.msmd.myattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163844932784-okb0duqnnm99oudk16sedbr9n6b7359a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsQPzTodoOlpq2tufbtwhA1Khmrl_J2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163844932784-okb0duqnnm99oudk16sedbr9n6b7359a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163844932784:android:a7bfe27ab5056d99026775",
+        "android_client_info": {
+          "package_name": "my.edu.utem.ftmk.msmd.mycurrencyexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163844932784-okb0duqnnm99oudk16sedbr9n6b7359a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsQPzTodoOlpq2tufbtwhA1Khmrl_J2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163844932784-okb0duqnnm99oudk16sedbr9n6b7359a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163844932784:android:0891ac17d2c528ec026775",
+        "android_client_info": {
+          "package_name": "my.edu.utem.ftmk.pvms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163844932784-okb0duqnnm99oudk16sedbr9n6b7359a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsQPzTodoOlpq2tufbtwhA1Khmrl_J2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163844932784-okb0duqnnm99oudk16sedbr9n6b7359a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
